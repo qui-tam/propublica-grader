@@ -1,5 +1,8 @@
 # propublica-grader
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19724234.svg)](https://doi.org/10.5281/zenodo.19724234)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A reproducible detector for governance-opacity patterns in IRS Form 990 filings,
 targeted at domestic-violence and abuse-victim-service 501(c)(3) organizations
 (NTEE codes I70–I74 and P43).
@@ -137,11 +140,18 @@ MIT. See [LICENSE](LICENSE).
 If this tool supports published research, journalism, or regulatory
 analysis, please cite:
 
-> propublica-grader: A governance-opacity detector for domestic-violence and
-> abuse-victim-service 501(c)(3) organizations. April 2026. Available at:
-> https://github.com/qui-tam/propublica-grader
+> qui-tam. (2026). *propublica-grader: A governance-opacity detector for
+> domestic-violence and abuse-victim-service 501(c)(3) organizations*
+> (Version 0.1.0) [Software]. Zenodo.
+> https://doi.org/10.5281/zenodo.19724234
 
-An archived DOI will be provided via Zenodo after initial release.
+**DOI:** [10.5281/zenodo.19724234](https://doi.org/10.5281/zenodo.19724234)
+**Repository:** <https://github.com/qui-tam/propublica-grader>
+**License:** MIT
+
+Every tagged GitHub release produces a new archived Zenodo snapshot with
+its own DOI. Cite the specific version used, not the repository URL, for
+reproducible attribution.
 
 ## References
 
