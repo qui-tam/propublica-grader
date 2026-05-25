@@ -1,7 +1,7 @@
 # propublica-grader
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19724234.svg)](https://doi.org/10.5281/zenodo.19724234)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 A reproducible detector for governance-opacity patterns in IRS Form 990 filings,
 targeted at domestic-violence and abuse-victim-service 501(c)(3) organizations
@@ -133,7 +133,7 @@ data at the time of their inquiry.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Apache 2.0. See [LICENSE](LICENSE).
 
 ## Citation
 
@@ -147,7 +147,7 @@ analysis, please cite:
 
 **DOI:** [10.5281/zenodo.19724234](https://doi.org/10.5281/zenodo.19724234)
 **Repository:** <https://github.com/qui-tam/propublica-grader>
-**License:** MIT
+**License:** Apache 2.0
 
 Every tagged GitHub release produces a new archived Zenodo snapshot with
 its own DOI. Cite the specific version used, not the repository URL, for
